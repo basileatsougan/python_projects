@@ -18,6 +18,7 @@ def add():
 		f.write(name + '|' + pwd + '\n')
 
 
+
 while True:
 	mode = input('would you like to add new password \
 	or view an existing one (view, add), press q to quit: ').lower()
