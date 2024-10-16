@@ -17,6 +17,8 @@ def guess(x):
 
 guess(20)
 '''
+
+
 def computer_guess(x):
 	low = 1
 	high = x
